@@ -32,7 +32,8 @@ Localize &amp; Correct License Plate
      
 > The tensorflow version can't work now...sor..
 
-![image](https://imgur.com/a/aJ7Wsxo)
+![image](https://github.com/yuchunwang/cvlab_homework/blob/master/597_vis.jpg)
 
+![image](https://github.com/yuchunwang/cvlab_homework/blob/master/596_vis.jpgo)
 
      
