@@ -30,7 +30,8 @@ Localize &amp; Correct License Plate
      python dataset.py
      python CCPD.py
      
-> The tensorflow version can't work now...sor..
+> The tensorflow version still can't work now...sor..
+> Here is the pytorch version performance.
 
 ![image](https://github.com/yuchunwang/cvlab_homework/blob/master/597_vis.jpg)
 
