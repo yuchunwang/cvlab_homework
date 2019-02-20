@@ -25,7 +25,7 @@ Localize &amp; Correct License Plate
  3.   Train the model.
  4.   Test the model.
 
- Here's some example code:
+ Step :
  
      python dataset.py
      python CCPD.py
