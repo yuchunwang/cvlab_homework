@@ -34,6 +34,6 @@ Localize &amp; Correct License Plate
 
 ![image](https://github.com/yuchunwang/cvlab_homework/blob/master/597_vis.jpg)
 
-![image](https://github.com/yuchunwang/cvlab_homework/blob/master/596_vis.jpgo)
+![image](https://github.com/yuchunwang/cvlab_homework/blob/master/596_vis.jpg)
 
      
